@@ -17,17 +17,17 @@ html, body {
 
 @font-face {
     font-family: a;
-    src: url(../assets/fonts/jost-variable.ttf)
+    src: url(../fonts/jost-variable.ttf)
 }
 
 @font-face {
     font-family: b;
-    src: url(../assets/fonts/KFOlCnqEu92Fr1MmEU9fBBc4\ \(1\).ttf);
+    src: url(../fonts/KFOlCnqEu92Fr1MmEU9fBBc4\ \(1\).ttf);
 }
 
 @font-face {
     font-family: c;
-    src: url(../assets/fonts/KFOmCnqEu92Fr1Mu4mxK\ \(1\).ttf);
+    src: url(../fonts/KFOmCnqEu92Fr1Mu4mxK\ \(1\).ttf);
 }
 
 #page1 {
